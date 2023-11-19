@@ -24,14 +24,8 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://api.github.com/users/azhararrozak"><img src="https://avatars.githubusercontent.com/u/31308758?v=4" width="100px;" alt=""/><br /><sub><b>Azhar Arrozak</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/AsrofurRizqi"><img src="https://avatars.githubusercontent.com/u/57488230?v=4" width="100px;" alt=""/><br /><sub><b>AsrofurRizqi</b></sub></a><br /><p style="font-size:10px">Backend Team Leader</p></td>
-    <td align="center"><a href="https://github.com/adiprrassetyo"><img src="https://avatars.githubusercontent.com/u/68819530?v=4" width="100px;" alt=""/><br /><sub><b>Adi Prasetyo</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
-    <td align="center"><a href="https://github.com/AfifArdhiansyah"><img src="https://avatars.githubusercontent.com/u/87472849?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Afif Dwi Ardhiansyah</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
-  </tr>
-    <tr>
-    <td align="center"><a href="https://github.com/richardlois8"><img src="https://avatars.githubusercontent.com/u/78334592?v=4" width="100px;" alt=""/><br /><sub><b>Richard Lois</b></sub></a><br /><p style="font-size:10px">Android Team Leader</p></td>
-    <td align="center"><a href="https://github.com/danial921"><img src="https://avatars.githubusercontent.com/u/72653810?v=4" width="100px;" alt=""/><br /><sub><b>Danial Farros</b></sub></a><br /><p style="font-size:10px">Android Developer</p></td>
-    <td align="center"><a href="https://github.com/AkbarM67"><img src="https://avatars.githubusercontent.com/u/99020608?v=4" width="100px;" alt=""/><br /><sub><b>Akbar Maulana</b></sub></a><br /><p style="font-size:10px">Android Developer</p></td>
+    <td align="center"><a href="https://github.com/hy-reza"><img src="https://avatars.githubusercontent.com/u/93983098?v=4" width="100px;" alt=""/><br /><sub><b>Handy Reza Alfanda</b></sub></a><br /><p style="font-size:10px">Backend Team Leader</p></td>
+    <td align="center"><a href="https://github.com/maulanadata"><img src="https://avatars.githubusercontent.com/u/63152884?v=4" width="100px;" alt=""/><br /><sub><b>M Wildan Maulana </b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
   </tr>
 </table>
 
