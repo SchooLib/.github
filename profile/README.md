@@ -9,7 +9,6 @@
 - [Methodology](#methodology)
 - [Expected Results](#expected-results)
 - [Contributors](#contributors)
-- [References](#references)
 
 ## Introduction
 This project, a part of the #GenerasiGIGIH program, aims to address the challenge of low literacy rates among students in Indonesia through the optimal utilization of school libraries via a web platform.
