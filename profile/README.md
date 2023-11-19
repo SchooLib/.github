@@ -46,9 +46,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Special thanks goes to our supporters.
 
-<p>
-  <a href="https://www.binaracademy.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://global-uploads.webflow.com/5e70b9a791ceb781b605048c/62c5720d8b3b6003c2f46fa4_logo-binar-academy.svg" alt="Binar-icon"></a><br/>
-  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white@2x.5330316a.webp" alt="Kampus Merdeka"></a></br>
-  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="80" alt="Cypress" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-pendidikan@2x.0ce0acdc.webp" /></a>
-</p>
+
 
