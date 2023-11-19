@@ -73,5 +73,6 @@ Thanks goes to these wonderful people
 
 Special thanks goes to our supporters.
 
+![Fz280lQaYAE0-Xu](https://github.com/SchooLib/.github/assets/93983098/fb597ab9-9623-4b7d-a0f9-2f8907c1881e)
 
 
