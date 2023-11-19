@@ -1,6 +1,5 @@
 # GoLib
-| Design Pattern | MVVM |
-| Component | Custom |
+
 
 Berikut adalah fitur yang bisa kamu gunakan :
 - Fitur Manage Content
