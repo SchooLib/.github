@@ -1,12 +1,54 @@
-## Hi there 👋
+# GoLib
+| Design Pattern | MVVM |
+| Component | Custom |
 
-<!--
+Berikut adalah fitur yang bisa kamu gunakan :
+- Fitur Manage Content
+- Fitur Leaderboard
+- Fitur Book Review
+- Fitur authentication & authorization
 
-**Here are some ideas to get you started:**
+## Contributors ✨
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Thanks goes to these wonderful people
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ahmadhafidh"><img src="https://avatars.githubusercontent.com/u/14936761?v=4" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><p style="font-size:10px">CPI-FS-SDG-4-D Coach</p></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://api.github.com/users/mfaiqrofifi"><img src="https://avatars.githubusercontent.com/u/93983098?v=4" width="100px;" alt=""/><br /><sub><b></b>M Faiq Rofifi</sub></a><br /><p style="font-size:10px">Team Leader & <br/> Frontend Developer</p></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/noviyana12"><img src="https://avatars.githubusercontent.com/u/54648155?v=4" width="100px;" alt=""/><br /><sub><b>Noviyana Ling</b></sub></a><br /><p style="font-size:10px">Frontend Team Leader</p></td>
+    <td align="center"><a href="https://github.com/abhiramadamas"><img src="https://avatars.githubusercontent.com/u/74411226?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Damas Abhirama</b></sub></a><br /><p style="font-size:10px">Frontend Developer</p></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/AsrofurRizqi"><img src="https://avatars.githubusercontent.com/u/57488230?v=4" width="100px;" alt=""/><br /><sub><b>AsrofurRizqi</b></sub></a><br /><p style="font-size:10px">Backend Team Leader</p></td>
+    <td align="center"><a href="https://github.com/adiprrassetyo"><img src="https://avatars.githubusercontent.com/u/68819530?v=4" width="100px;" alt=""/><br /><sub><b>Adi Prasetyo</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
+    <td align="center"><a href="https://github.com/AfifArdhiansyah"><img src="https://avatars.githubusercontent.com/u/87472849?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Afif Dwi Ardhiansyah</b></sub></a><br /><p style="font-size:10px">Backend Developer</p></td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/richardlois8"><img src="https://avatars.githubusercontent.com/u/78334592?v=4" width="100px;" alt=""/><br /><sub><b>Richard Lois</b></sub></a><br /><p style="font-size:10px">Android Team Leader</p></td>
+    <td align="center"><a href="https://github.com/danial921"><img src="https://avatars.githubusercontent.com/u/72653810?v=4" width="100px;" alt=""/><br /><sub><b>Danial Farros</b></sub></a><br /><p style="font-size:10px">Android Developer</p></td>
+    <td align="center"><a href="https://github.com/AkbarM67"><img src="https://avatars.githubusercontent.com/u/99020608?v=4" width="100px;" alt=""/><br /><sub><b>Akbar Maulana</b></sub></a><br /><p style="font-size:10px">Android Developer</p></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Supporters
+
+Special thanks goes to our supporters.
+
+<p>
+  <a href="https://www.binaracademy.com/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://global-uploads.webflow.com/5e70b9a791ceb781b605048c/62c5720d8b3b6003c2f46fa4_logo-binar-academy.svg" alt="Binar-icon"></a><br/>
+  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="80" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white@2x.5330316a.webp" alt="Kampus Merdeka"></a></br>
+  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noopener noreferrer"><img height="80" alt="Cypress" src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-pendidikan@2x.0ce0acdc.webp" /></a>
+</p>
+
