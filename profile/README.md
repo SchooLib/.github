@@ -53,7 +53,7 @@ Thanks goes to these wonderful people
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><p style="font-size:10px">CPI-FS-SDG-4-D Coach</p></td>
+    <td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/138640357?v=4" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /><p style="font-size:10px">CPI-FS-SDG-4-D Coach</p></td>
   </tr>
   <tr>
     <td align="center"><a href="https://api.github.com/users/mfaiqrofifi"><img src="https://avatars.githubusercontent.com/u/67939509?v=4" width="100px;" alt=""/><br /><sub><b></b>M Faiq Rofifi</sub></a><br /><p style="font-size:10px">Team Leader & <br/> Frontend Developer</p></td>
